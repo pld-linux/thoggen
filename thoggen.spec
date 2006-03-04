@@ -1,5 +1,5 @@
-#
 Summary:	DVD backup utility
+Summary(pl):	Narzêdzie do tworzenia kopii zapasowych DVD
 Name:		thoggen
 Version:	0.4.1
 Release:	1
@@ -12,7 +12,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Thoggen is a DVD backup utility ('DVD ripper') for Linux, based on
-GStreamer and Gtk+.
+GStreamer and GTK+.
+
+%description -l pl
+Thoggen to narzêdzie do tworzenia kopii zapasowych DVD ("DVD ripper")
+dla Linuksa, oparte na GStreamerze i GTK+.
 
 %prep
 %setup -q
