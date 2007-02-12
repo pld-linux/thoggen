@@ -1,5 +1,5 @@
 Summary:	DVD backup utility
-Summary(pl.UTF-8):   Narzędzie do tworzenia kopii zapasowych DVD
+Summary(pl.UTF-8):	Narzędzie do tworzenia kopii zapasowych DVD
 Name:		thoggen
 Version:	0.4.1
 Release:	1
